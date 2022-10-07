@@ -1,1 +1,2 @@
-Markdown texts
+*Emphasize* _emphasize_
+**Strong** __Strong__
